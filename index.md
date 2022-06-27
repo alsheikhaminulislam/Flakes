@@ -9,37 +9,17 @@ Flakes
 <img src="https://img.shields.io/website?url=https%3A%2F%2Frahuldkjain.github.io%2Fgh-profile-readme-generator&logo=github&style=flat-square" />
 </a>
 
-Try the tool: [**Download ExE**](https://github.com/alsheikhaminulislam/Flakes/releases/) 
 
-## 🧐 Features
-
-- **Clickable buttons!**
-- **Make and manage multiple presences**
-- **Clean and lightweight UI**
-- **Clear instructions**
-- **Optional timer**
-- **Custom, simplified developer portal**
-- **Easy installers for Windows, macOS, and Linux**
-- **Export presences and share with friends**
-- **Multiple themes**
-- **Cross-platform system tray support**
-- **Auto-update**
-- **Pywal support**
-- **AUR Package**
-- **CLI support**
-- **Autostart**
-- **Code signing on Windows** (soon)
-- **Translations** (soon)
-- **Hotkeys** (soon)
-- **Online sharing** (soon)
 
 ## 🛠️ Installation Steps
 
-1. Clone the softwer
+Clone the softwer
 
 ```bash
 git clone https://github.com/alsheikhaminulislam/Flakes.git
 ```
+## Download 🛠️ tool: [**Download ExE**](https://github.com/alsheikhaminulislam/Flakes/releases/) 
+
 
 
 
