@@ -5,7 +5,7 @@ Flakes
 
 ## 🚀 Demo
 
-<a href="https://github.com/alsheikhaminulislam/Flakes/" target="blank">
+<a href="https://flakesmovie.web.app/" target="blank">
 <img src="https://img.shields.io/website?url=https%3A%2F%2Frahuldkjain.github.io%2Fgh-profile-readme-generator&logo=github&style=flat-square" />
 </a>
 
