@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+<h1 align="center">
+Flakes
+</h1>
 
-You can use the [editor on GitHub](https://github.com/alsheikhaminulislam/Flakes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 🚀 Demo
 
-### Markdown
+<a href="https://github.com/alsheikhaminulislam/Flakes/" target="blank">
+<img src="https://img.shields.io/website?url=https%3A%2F%2Frahuldkjain.github.io%2Fgh-profile-readme-generator&logo=github&style=flat-square" />
+</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Try the tool: [**Download ExE**](https://github.com/alsheikhaminulislam/Flakes/releases/) 
 
-```markdown
-Syntax highlighted code block
+## 🧐 Features
 
-# Header 1
-## Header 2
-### Header 3
+- **Clickable buttons!**
+- **Make and manage multiple presences**
+- **Clean and lightweight UI**
+- **Clear instructions**
+- **Optional timer**
+- **Custom, simplified developer portal**
+- **Easy installers for Windows, macOS, and Linux**
+- **Export presences and share with friends**
+- **Multiple themes**
+- **Cross-platform system tray support**
+- **Auto-update**
+- **Pywal support**
+- **AUR Package**
+- **CLI support**
+- **Autostart**
+- **Code signing on Windows** (soon)
+- **Translations** (soon)
+- **Hotkeys** (soon)
+- **Online sharing** (soon)
 
-- Bulleted
-- List
+## 🛠️ Installation Steps
 
-1. Numbered
-2. List
+1. Clone the softwer
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```bash
+git clone https://github.com/alsheikhaminulislam/Flakes.git
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alsheikhaminulislam/Flakes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 🙏 Support
+<p align="left">
+   
+  <a href="https://discord.com/invite/zzqdKZEdwF" target="_blank"><img src="https://cdn.discordapp.com/attachments/987427918529585194/987438982327570512/unknown.png" alt="Buy Me A Coffee" height="23" width="23" style="border-radius:2px" >  </a> Join our discord server
+</p>
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<hr>
+<p align="center">
+Developed with ❤️ in Bangladesh BD 
+</p>
